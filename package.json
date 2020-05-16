@@ -1,5 +1,5 @@
 {
-  "name": "stf-appstore-db",
+  "name": "@devicefarmer/stf-appstore-db",
   "version": "1.0.0",
   "description": "An app store database with icons.",
   "keywords": [
